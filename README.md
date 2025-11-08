@@ -1,6 +1,5 @@
 # Trinity - Blender Animation Addon #
 ​
-
 ​"Trinity" é um addon para o Blender escrito em Python focado em acelerar o fluxo de trabalho de animadores 3D, automatizando a aplicação de princípios fundamentais da animação.
 
 ## ​🎯 O Problema que o Trinity Resolve ##
