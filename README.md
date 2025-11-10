@@ -11,6 +11,7 @@
 ​O Trinity oferece um painel de ferramentas simples que aplica esses conceitos complexos com apenas alguns cliques, permitindo que o animador se concentre na performance criativa em vez de no trabalho técnico repetitivo.
 
 ## ​🎬 Demonstração ##
+![Animação](https://github.com/user-attachments/assets/d904c4ba-234c-435c-a2be-dae688563aa4)
 
 ## ​🔧 Funcionalidades Principais ##
 
