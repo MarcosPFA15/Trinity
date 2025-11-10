@@ -10,8 +10,17 @@
 ## ​✨ A Solução ##
 ​O Trinity oferece um painel de ferramentas simples que aplica esses conceitos complexos com apenas alguns cliques, permitindo que o animador se concentre na performance criativa em vez de no trabalho técnico repetitivo.
 
-## ​🎬 Demonstração ##
+## ​🎬 Demonstrações ##
+### Criação de Arco ###
 ![Animação](https://github.com/user-attachments/assets/d904c4ba-234c-435c-a2be-dae688563aa4)
+### Antecipação ###
+![Antecipação](https://github.com/user-attachments/assets/ada63d25-1a55-4a49-be98-1e8a48319f76)
+### Global Timing ###
+![GlobalTiming](https://github.com/user-attachments/assets/1a41cc49-7b52-4f92-bc07-838b0616b0dd)
+### Global Timing % ###
+![GlobalTiming%](https://github.com/user-attachments/assets/f2debdd8-632e-4f55-87fe-56fad76df64e)
+### Localized Timing ###
+![Localizerd Timing](https://github.com/user-attachments/assets/25ff3e2b-cf54-4ad5-8b7f-3b9a9c057e2c)
 
 ## ​🔧 Funcionalidades Principais ##
 
