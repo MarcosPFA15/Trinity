@@ -30,9 +30,9 @@
 
 ​Arcos (Arcs): Ajuda a refinar o caminho do movimento de um objeto para seguir um arco suave.
 
-​Global/Local Timing Scaling: Redimensiona o timing (espaçamento) dos keyframes selecionados.
+​Global Timing: Redimensiona o timing (espaçamento) dos keyframes selecionados.
 
-​Shifting: Desloca blocos inteiros de animação no tempo.
+Local Timing Scaling: Desacelera ou acelera um bloco no tempo, sem mudar os keyframes de lugar.
 
 ## ​💻 Tech Stack ##
 ​Linguagem: Python
